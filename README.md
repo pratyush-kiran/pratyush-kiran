@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.gif" width="100%" alt="Pratyush Panda - Animated 3D Banner"/>
+<img src="./assets/banner.gif" width="100%" alt="Pratyush - Animated 3D Banner"/>
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-### 👋 Hey, I'm Pratyush Panda!
+### 👋 Hey, I'm Pratyush!
 
 **Software Engineer • Creative Technologist • AI Power User**
 
