@@ -1,12 +1,18 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00d4ff&height=230&section=header&text=PRATYUSH%20PANDA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Creative%20Technologist%20%7C%20AI%20Explorer&descAlignY=60&descSize=17" width="100%"/>
+<img src="./assets/banner.gif" width="100%" alt="Pratyush Panda - Animated 3D Banner"/>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+Power+User+%26+Automation+Enthusiast+%F0%9F%A4%96;3D+%7C+AR%2FVR+%7C+Game+Developer+%F0%9F%8E%AE;Java+%7C+.NET+%7C+React+%7C+Flutter;Turning+Wild+Ideas+Into+Reality+%E2%9C%A8" alt="Typing animation"/>
 
 <br/>
 
-<a href="https://github.com/pratyush-kiran"><img src="https://komarev.com/ghpvc/?username=pratyush-kiran&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge" /></a>
+<a href="https://github.com/pratyush-kiran">
+<img src="https://komarev.com/ghpvc/?username=pratyush-kiran&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge"/>
+</a>
+
 <img src="https://img.shields.io/badge/FOCUS-Creative%20Engineering-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/STATUS-Building%20Cool%20Stuff-00C896?style=for-the-badge"/>
 
@@ -20,6 +26,7 @@
 const pratyush = {
   role: "Software Engineer",
   mindset: "Build anything. Learn everything.",
+
   domains: [
     "Full Stack Engineering",
     "AI & Agentic Workflows",
@@ -29,6 +36,7 @@ const pratyush = {
     "Mobile Applications",
     "Data Analytics & Visualization"
   ],
+
   superpower: "Turning ideas into working products",
   currentMode: "Always experimenting 🚀"
 };
@@ -46,15 +54,15 @@ const pratyush = {
 
 ### 💻 Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=java,cs,dotnet,cpp,js,ts,python,dart,react,nextjs,nodejs,flutter,html,css,tailwind&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,cs,dotnet,cpp,js,ts,python,dart,react,nextjs,nodejs,flutter,html,css,tailwind&perline=8"/>
 
 ### 🎮 Game Development • 3D • AR/VR
 
-<img src="https://skillicons.dev/icons?i=unity,godot,blender,threejs,unreal&perline=8" />
+<img src="https://skillicons.dev/icons?i=unity,godot,blender,threejs,unreal&perline=8"/>
 
 ### 🗄️ Backend • Database • DevOps
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,prisma,docker,git,github,gitlab,vercel,postman&perline=8" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,prisma,docker,git,github,gitlab,vercel,postman&perline=8"/>
 
 ### 🤖 AI • Creative Engineering
 
@@ -91,6 +99,7 @@ const pratyush = {
 <td width="50%" valign="top">
 
 ### 🥽 Immersive Experiences
+
 AR/VR applications, immersive training simulations, and interactive 3D environments.
 
 **Unity • Blender • XR**
@@ -99,16 +108,19 @@ AR/VR applications, immersive training simulations, and interactive 3D environme
 <td width="50%" valign="top">
 
 ### 📊 Enterprise Platforms
+
 Full-stack systems, reporting tools, analytics dashboards, and business applications.
 
 **Next.js • Java • .NET • SQL**
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### 🎮 Games & Interactive Worlds
+
 Gameplay prototypes, mechanics, visual effects, and creative experiments.
 
 **Godot • Unity • C++**
@@ -117,6 +129,7 @@ Gameplay prototypes, mechanics, visual effects, and creative experiments.
 <td width="50%" valign="top">
 
 ### 🤖 AI-Powered Tools
+
 Exploring agentic coding, LLM workflows, intelligent automation, and AI-assisted products.
 
 **AI • TypeScript • Python**
@@ -132,6 +145,7 @@ Exploring agentic coding, LLM workflows, intelligent automation, and AI-assisted
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=pratyush-kiran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=8B5CF6&text_color=C9D1D9" height="170" alt="GitHub stats"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush-kiran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" height="170" alt="Top languages"/>
 
 <br/><br/>
@@ -165,6 +179,7 @@ Exploring agentic coding, LLM workflows, intelligent automation, and AI-assisted
 **Code. Create. Experiment. Repeat.**
 
 From pixels to polygons. From databases to digital worlds.
+
 From traditional software to AI-powered experiences.
 
 I'm here to build what comes next.
@@ -177,8 +192,13 @@ I'm here to build what comes next.
 
 <div align="center">
 
-<a href="https://github.com/pratyush-kiran"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.3defy.space"><img src="https://img.shields.io/badge/3DEFY%20Studios-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/pratyush-kiran">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.3defy.space">
+<img src="https://img.shields.io/badge/3DEFY%20Studios-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <br/><br/>
 
