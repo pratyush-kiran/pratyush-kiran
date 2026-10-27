@@ -20,31 +20,39 @@
 
 ---
 
+
 ## ⚡ About Me
 
-```typescript
-const pratyush = {
-  role: "Software Engineer",
-  mindset: "Build anything. Learn everything.",
+<div align="center">
 
-  domains: [
-    "Full Stack Engineering",
-    "AI & Agentic Workflows",
-    "3D & Interactive Experiences",
-    "AR / VR / XR",
-    "Game Development",
-    "Mobile Applications",
-    "Data Analytics & Visualization"
-  ],
+### 👋 Hey, I'm Pratyush Panda!
 
-  superpower: "Turning ideas into working products",
-  currentMode: "Always experimenting 🚀"
-};
-```
+**Software Engineer • Creative Technologist • AI Power User**
 
-> **Not limited by a tech stack. Driven by curiosity.**
->
-> I love building things that live at the intersection of software, design, AI, and immersive technology — from enterprise systems to interactive 3D worlds.
+*Building at the intersection of code, creativity, and emerging technology.*
+
+</div>
+
+I'm a multidisciplinary software developer who loves exploring everything from enterprise applications to immersive digital experiences.
+
+- 💻 **Full Stack Engineering** — Java, .NET, React, Next.js, TypeScript
+- 🤖 **AI & Automation** — LLMs, AI Agents, Agentic Workflows
+- 🥽 **AR / VR / XR** — Unity, Immersive Experiences
+- 🎮 **Game Development** — Godot, Unity, C++
+- 🧊 **3D & Creative Technology** — Blender, Three.js, WebGL
+- 📱 **Mobile Development** — Flutter, Dart, Android
+- 📊 **Data & Analytics** — PostgreSQL, SQL, Power BI
+- 🚀 **Creative Experiments** — 3D Printing, Prototyping, Automation
+
+<div align="center">
+
+### ✨ My Philosophy
+
+**"Build Anything. Learn Everything."**
+
+*Not defined by a single tech stack. Driven by curiosity.*
+
+</div>
 
 ---
 
